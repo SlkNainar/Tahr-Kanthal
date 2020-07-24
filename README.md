@@ -1,4 +1,3 @@
-Kanthal-Tahr
 {
   "name": "script",
   "main": "./lib/script",
