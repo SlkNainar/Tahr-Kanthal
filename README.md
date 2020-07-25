@@ -1,4 +1,3 @@
-
 {
   "name": "script",
   "main": "./lib/script",
